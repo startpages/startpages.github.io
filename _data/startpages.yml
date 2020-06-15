@@ -163,10 +163,10 @@
   col-size: col-1
 
 - image_url: /media/images/retropage-2.jpg
-  full_path: "https://retropage.co"
+  full_path: "https://retropage.net"
   title: "RetroPage"
   author: "Ravenger"
-  source: "https://github.com/RavengerNetwork/RetroPage"
+  source: "https://github.com/RetroPage/RetroPage"
   tags: "simple minimal"
   col-size: col-1
 
