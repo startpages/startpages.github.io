@@ -68,7 +68,7 @@
   col-size: col-1
 
 - image_url: /media/images/saschadiercks.png
-  full_path: "http://www.metafolio.de/side-projects/startpage/"
+  full_path: "https://demo.saschadiercks.de/startpage"
   title: "Browser Startpage"
   author: "Sascha Diercks"
   source: "https://github.com/saschadiercks/browserStartpage"
