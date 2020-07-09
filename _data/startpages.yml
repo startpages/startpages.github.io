@@ -1,3 +1,11 @@
+- image_url: /media/images/PrismaticStartpageThumb.png
+  full_path: "https://dbuxy218.github.io/Prismatic-Night/"
+  title: "Prismatic-Night startpage"
+  author: "dbuxy218"
+  source: "https://github.com/dbuxy218/Prismatic-Night/tree/master/firefox/startpage"
+  tags: "dark startpage with dual search engine support"
+  col-size: col-1
+
 - image_url: /media/images/etacarinaea-startpage.png
   full_path: "http://etacarinaea.github.io/startpage/"
   title: "startpage"
