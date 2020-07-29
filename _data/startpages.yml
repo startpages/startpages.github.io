@@ -586,3 +586,10 @@
   author: "Vyris"
   source: "https://github.com/Vyris/jsh"
   col-size: col-1
+
+- image_url: /media/images/nord-startpage.png
+  full_path: "http://www.jeffreywindsor.com/nord-startpage/"
+  title: "Nord"
+  author: "jeffwindsor"
+  source: "https://github.com/jeffwindsor/nord-startpage"
+  col-size: col-1
