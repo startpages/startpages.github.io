@@ -1,3 +1,11 @@
+- image_url: /media/images/NexxonTech-StartPage.png
+  full_path: "https://start.nexxontech.it"
+  title: "NexxonTech StartPage"
+  author: "NexxonTech"
+  source: "https://github.com/NexxonTech/NexxonTech-Startpage"
+  tags: "minimal random-background bookmarks notes to-do multi-language customizable-title"
+  col-size: col-1
+  
 - image_url: /media/images/etacarinaea-startpage.png
   full_path: "http://etacarinaea.github.io/startpage/"
   title: "startpage"
