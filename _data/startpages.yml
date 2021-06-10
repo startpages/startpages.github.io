@@ -1,3 +1,11 @@
+- image_url: /media/images/karlsboomarks.png
+  full_path: "http://kolya.schwarzsilber.de/startpage/"
+  title: "Karl's Bookmarks"
+  author: "KolyaKorruptis"
+  source: "https://github.com/KolyaKorruptis/startpage"
+  tags: "bright dark bookmarks localstorage minimal simple mobile desktop"
+  col-size: col-1
+
 - image_url: /media/images/etacarinaea-startpage.png
   full_path: "http://etacarinaea.github.io/startpage/"
   title: "startpage"
@@ -81,7 +89,7 @@
   author: "Jaredk3nt"
   source: "https://github.com/Jaredk3nt/homepage"
   col-size: col-1
-  
+
 - image_url: /media/images/msdvvr.jpg
   full_path: "https://msdvvr.github.io/startpage/"
   title: "startpage"
@@ -89,7 +97,7 @@
   source: "https://github.com/msdvvr/startpage"
   tags: "startpage clean multi"
   col-size: col-1
-  
+
 - image_url: /media/images/nostvapor.PNG
   full_path: "https://jettscythe.github.io"
   title: "n0stV@p0R"
