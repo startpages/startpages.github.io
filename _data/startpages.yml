@@ -586,3 +586,11 @@
   author: "Vyris"
   source: "https://github.com/Vyris/jsh"
   col-size: col-1
+
+- image_url: /media/images/Gruvtea.jpg
+  full_path: http://dashboard.nottunnellove.tk
+  title: "Gruvtea"
+  author: "Originally by [sadparadiseinhell](https://github.com/sadparadiseinhell/tea-green), this version by kkYrusobad"
+  source: "https://github.com/kkYrusobad/kkYrusobad.github.io"
+  tags: "Gruvbox dark material"
+  col-size: col-1
