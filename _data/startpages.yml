@@ -1,3 +1,10 @@
+- image_url: /media/images/kuuhhl_home.png
+  full_path: "https://startpage.landmann.ph/"
+  title: "Kuuhhl - Minimal Timestamp Start Page"
+  author: "Kuuhhl"
+  source: "https://github.com/Kuuhhl/startpage"
+  col-size: col-1
+
 - image_url: /media/images/etacarinaea-startpage.png
   full_path: "http://etacarinaea.github.io/startpage/"
   title: "startpage"
